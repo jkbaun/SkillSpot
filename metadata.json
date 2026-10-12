@@ -1,0 +1,6 @@
+{
+  "name": "Skillspot",
+  "description": "Direct talent-recruiter connection for internships, portfolio building, skill certifications, and specialized talent recruitment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
